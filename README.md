@@ -1,5 +1,5 @@
 <p align="center">
-This repo is made for storing tiktok musics which would be used in Xeon Bot Inc. projects. Thank you
+This repo is made for storing tiktok musics which would be used in 𝐀𝐥𝐲𝐚-𝐁𝐨𝐭𝐳 Inc. projects. Thank you
 </p>
 
 # ```REPO INFO```
